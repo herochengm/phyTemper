@@ -1,0 +1,42 @@
+/.config
+/.launches
+/.settings
+/Debug
+/src/grace/bak
+/src/grace/objs
+###############
+#  fixed file #
+###############
+*.exe
+*.txt
+*.def
+*.dsp
+*.lib
+*.doc
+*.dll
+*.lnt
+*.pm
+*.xls
+*.dbg
+*.DBG
+*.o
+*.plg
+*.keep
+*.obj
+*.pp
+###############
+#  temp file  #
+###############
+~*
+*.log
+*.cmm
+*.men
+*.ini
+*.fig
+*.cmp
+*.tmp
+
+###############
+#    script   #
+###############
+*.bat
